@@ -55,7 +55,7 @@ workflows:
     '.github/workflows/scorecard.yml':
         - 'hyperpolymath/standards@092dedada188f56c5915f74a5fd40aac093742c3'
     '.github/workflows/secret-scanner.yml':
-        - 'hyperpolymath/standards@1acabd27e4517fd690b73815de25ae8806c942f0'
+        - 'metadatastician/standards@b8f60511e76c9015d86990317162dce653c92fe1'
     '.github/workflows/security-policy.yml':
         - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
     '.github/workflows/sonarqube.yml':
@@ -215,13 +215,6 @@ dependencies:
             - 'github/codeql-action@cdf488f595d80d6e07e03d4674febd5ab45fa938'
             - 'ossf/scorecard-action@2d1146689b8cda280b9bc96326124645441f03bc'
             - 'webfactory/ssh-agent@e83874834305fe9a4a2997156cb26c5de65a8555'
-    'hyperpolymath/standards@1acabd27e4517fd690b73815de25ae8806c942f0':
-        ref: '1acabd27e4517fd690b73815de25ae8806c942f0'
-        commit: 'sha1-1acabd27e4517fd690b73815de25ae8806c942f0'
-        owner_id: 6759885
-        repo_id: 1116521501
-        uses:
-            - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
     'hyperpolymath/standards@412a7031577112b31ee287cc6060179d638d6500':
         ref: '412a7031577112b31ee287cc6060179d638d6500'
         commit: 'sha1-412a7031577112b31ee287cc6060179d638d6500'
@@ -232,6 +225,13 @@ dependencies:
             - 'actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0'
             - 'codecov/codecov-action@fb8b3582c8e4def4969c97caa2f19720cb33a72f'
             - 'dtolnay/rust-toolchain@67ef31d5b988238dd797d409d6f9574278e20537'
+    'metadatastician/standards@b8f60511e76c9015d86990317162dce653c92fe1':
+        ref: 'b8f60511e76c9015d86990317162dce653c92fe1'
+        commit: 'sha1-b8f60511e76c9015d86990317162dce653c92fe1'
+        owner_id: 297579217
+        repo_id: 1116521501
+        uses:
+            - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
     'ossf/scorecard-action@2d1146689b8cda280b9bc96326124645441f03bc':
         ref: 'v2.4.4'
         commit: 'sha1-2d1146689b8cda280b9bc96326124645441f03bc'

@@ -14,7 +14,7 @@ When the canonical remote has been provisioned, obtain it with:
 
 [source,bash]
 ----
-git clone https://github.com/metadatastician/sr71-blackglider.git
+git clone https://github.com/catachresis-colloquium/sr71-blackglider.git
 cd sr71-blackglider
 mise trust
 just test

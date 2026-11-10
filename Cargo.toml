@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2024"
 license = "MPL-2.0"
 description = "Proof-bearing Conway spacetime foundation for SR-71 BlackGlider"
-repository = "https://github.com/metadatastician/sr71-blackglider"
+repository = "https://github.com/catachresis-colloquium/sr71-blackglider"
 
 [lib]
 path = "src/lib.rs"

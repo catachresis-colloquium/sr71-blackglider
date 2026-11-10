@@ -10,5 +10,5 @@
 Contact: mailto:j.d.a.jewell@open.ac.uk
 Expires: 2026-12-31T23:59:59.000Z
 Preferred-Languages: en
-Canonical: https://github.com/metadatastician/sr71-blackglider/.well-known/security.txt
-Policy: https://github.com/metadatastician/sr71-blackglider/blob/main/SECURITY.md
+Canonical: https://github.com/catachresis-colloquium/sr71-blackglider/.well-known/security.txt
+Policy: https://github.com/catachresis-colloquium/sr71-blackglider/blob/main/SECURITY.md

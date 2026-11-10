@@ -30,7 +30,7 @@ guix shell -D -f build/guix.scm
 
 [source,bash]
 ----
-git clone https://github.com/metadatastician/sr71-blackglider.git
+git clone https://github.com/catachresis-colloquium/sr71-blackglider.git
 cd sr71-blackglider
 mise install    # installs the pinned rust + just
 ----

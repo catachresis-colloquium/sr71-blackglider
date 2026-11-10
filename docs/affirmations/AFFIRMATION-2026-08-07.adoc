@@ -207,7 +207,7 @@ template.
 [cols="1,3"]
 |===
 | Project | SR-71 BlackGlider
-| Repository | https://github.com/metadatastician/sr71-blackglider
+| Repository | https://github.com/catachresis-colloquium/sr71-blackglider
 | Base commit | `ce52d18d60907893a5953b2a3c91fdd89c332141`
 | Affirmed tree | the working tree landed by the commit that introduces this file (verify with `git show --stat HEAD`)
 | Branch | main

@@ -25,7 +25,7 @@ The only supported "distribution" today is the source tree itself:
 
 [source,bash]
 ----
-git clone https://github.com/metadatastician/sr71-blackglider.git
+git clone https://github.com/catachresis-colloquium/sr71-blackglider.git
 cd sr71-blackglider
 mise install
 just test && just quality    # the golden path must be green
@@ -69,5 +69,5 @@ bash scripts/check-proofs.sh idris2  # Proof-gate self-check
 
 == Reporting Issues
 
-* Upstream: https://github.com/metadatastician/sr71-blackglider/issues
+* Upstream: https://github.com/catachresis-colloquium/sr71-blackglider/issues
 * With diagnostic: `just help-me` (pre-fills context)

@@ -18,7 +18,7 @@ what-this-is-not = [
 position = "third Stealth Glider investigation"
 chain = "f19-stealth-glider -> f117a-stealth-glider -> sr71-blackglider -> x15-rocket-glider -> planer-1 -> enterglide-ncc-137-k -> tardis-rule-disruption"
 notes = "Carries forward load-bearing substrate, counterfactual causality and presentation separation while removing the pre-contact kinematic player seam."
-coordination = "metadatastician/stealth-glider-ecosystem"
+coordination = "catachresis-colloquium/stealth-glider-ecosystem"
 
 [related-projects]
 projects = [

@@ -11,7 +11,7 @@
 #   upstream just installer is a rolling script that cannot be checksum-pinned.
 #
 # Usage:
-#   curl -fsSL https://raw.githubusercontent.com/metadatastician/sr71-blackglider/main/setup.sh -o setup.sh && sh setup.sh
+#   curl -fsSL https://raw.githubusercontent.com/catachresis-colloquium/sr71-blackglider/main/setup.sh -o setup.sh && sh setup.sh
 #   # or after cloning:
 #   ./setup.sh
 #
@@ -214,7 +214,7 @@ main() {
     # Step 2: Check if we're in the repo directory
     if [ ! -f "Justfile" ] && [ ! -f "justfile" ]; then
         warn "Not in a repo directory (no Justfile found)"
-        info "Clone first: git clone https://github.com/metadatastician/sr71-blackglider.git"
+        info "Clone first: git clone https://github.com/catachresis-colloquium/sr71-blackglider.git"
         info "Then: cd sr71-blackglider && ./setup.sh"
         exit 1
     fi

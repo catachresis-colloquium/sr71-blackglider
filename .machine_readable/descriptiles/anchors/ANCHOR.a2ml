@@ -9,7 +9,7 @@ last-updated = "2026-08-01"
 
 [anchor]
 schema = "hyperpolymath.anchor/1"
-repo = "metadatastician/sr71-blackglider"
+repo = "catachresis-colloquium/sr71-blackglider"
 authority = "upstream-canonical"
 
 purpose = [

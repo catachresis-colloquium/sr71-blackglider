@@ -38,7 +38,7 @@ Before you begin, ensure you have:
 [source,bash]
 ----
 # Clone and set up
-git clone https://github.com/metadatastician/sr71-blackglider.git
+git clone https://github.com/catachresis-colloquium/sr71-blackglider.git
 cd sr71-blackglider
 just setup
 ----
@@ -103,7 +103,7 @@ just heal
 * **In-app**: `just run --help`
 * **Guided tour**: `just tour`
 * **Report a problem**: `just help-me` (pre-fills diagnostic context)
-* **Wiki**: https://github.com/metadatastician/sr71-blackglider/wiki
+* **Wiki**: https://github.com/catachresis-colloquium/sr71-blackglider/wiki
 
 == Uninstall
 

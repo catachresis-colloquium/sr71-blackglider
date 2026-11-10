@@ -3,7 +3,7 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 Copyright (c) Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>
 -->
 # Clone the repository
-git clone https://github.com/metadatastician/sr71-blackglider.git
+git clone https://github.com/catachresis-colloquium/sr71-blackglider.git
 cd sr71-blackglider
 
 # Using Guix (recommended for reproducibility)
@@ -94,10 +94,10 @@ Use the [feature request template](.github/ISSUE_TEMPLATE/feature_request.md) an
 
 Look for issues labelled:
 
-- [`good first issue`](https://github.com/metadatastician/sr71-blackglider/labels/good%20first%20issue) — Simple Perimeter 3 tasks
-- [`help wanted`](https://github.com/metadatastician/sr71-blackglider/labels/help%20wanted) — Community help needed
-- [`documentation`](https://github.com/metadatastician/sr71-blackglider/labels/documentation) — Docs improvements
-- [`perimeter-3`](https://github.com/metadatastician/sr71-blackglider/labels/perimeter-3) — Community sandbox scope
+- [`good first issue`](https://github.com/catachresis-colloquium/sr71-blackglider/labels/good%20first%20issue) — Simple Perimeter 3 tasks
+- [`help wanted`](https://github.com/catachresis-colloquium/sr71-blackglider/labels/help%20wanted) — Community help needed
+- [`documentation`](https://github.com/catachresis-colloquium/sr71-blackglider/labels/documentation) — Docs improvements
+- [`perimeter-3`](https://github.com/catachresis-colloquium/sr71-blackglider/labels/perimeter-3) — Community sandbox scope
 
 ---
 

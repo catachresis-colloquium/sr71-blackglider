@@ -15,7 +15,7 @@
 # fact anyone can recompute and check — never copy one from another repo, and
 # never make one up. Recompute this one any time with:
 #
-#     uuidgen --sha1 --namespace @url --name "github.com/metadatastician/sr71-blackglider"
+#     uuidgen --sha1 --namespace @url --name "github.com/catachresis-colloquium/sr71-blackglider"
 #
 # Verify the method first by reproducing a known worked example:
 #     januskey -> e216170e-ff47-5a5c-bbdd-15e61c8190c8
@@ -23,9 +23,9 @@
 # The owner segment is part of the derived name, so it is part of the IDENTITY:
 # the same repo hosted under a different owner has a different uuid. Record the
 # owner that is TRUE TODAY, and re-derive if it ever moves.
-uuid = "ad26514c-ba53-541e-aee9-d4686911a9a4"
+uuid = "768f0f8e-61ff-5433-b375-4732da9103fd"
 primary-forge = "github"
-primary-owner = "metadatastician"
+primary-owner = "catachresis-colloquium"
 canonical-name = "sr71-blackglider"
 prefixed-name = "fv-sr71-blackglider"
 
@@ -83,7 +83,7 @@ assigned = "2026-08-01"
 rationale = "The project's core value is not merely presenting a game: it establishes and mechanically defends the equivalence between every claimed flight event and an uncompromised Conway B3/S23 history. The experience is downstream of that proof-bearing contract."
 
 [forges]
-github = "metadatastician/sr71-blackglider"
+github = "catachresis-colloquium/sr71-blackglider"
 gitlab = ""       # populated if/when mirrored
 bitbucket = ""    # populated if/when mirrored
 

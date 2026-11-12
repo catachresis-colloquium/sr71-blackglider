@@ -57,7 +57,7 @@ Deny: **Nix, Node/npm, TypeScript, Python, Go, AGPL**. (Guix, not Nix.)
 
 # This repo: `sr71-blackglider`  ·  clade `fv-sr71-blackglider`
 
-- **Identity** — uuid `768f0f8e-61ff-5433-b375-4732da9103fd`; clade `fv` (secondary ``); born 2026-08-01; forge `catachresis-colloquium/sr71-blackglider`.
+- **Identity** — uuid `ad26514c-ba53-541e-aee9-d4686911a9a4`; clade `fv` (secondary ``); born 2026-08-01; forge `catachresis-colloquium/sr71-blackglider`.
 - **IS** — Advance the Stealth Glider line to a single uncompromised Conway spacetime with proof-bearing geometric flight presentation.
 - **IS-NOT** — an F22 project or a rename of another aircraft · a Conway-shaped sprite moved by conventional flight controls · a three-dimensional cellular automaton · a claim that coordinate curvature changes canonical causality
 - **Where it sits** — pipeline position **third Stealth Glider investigation**; chain `f19-stealth-glider -> f117a-stealth-glider -> sr71-blackglider -> x15-rocket-glider -> planer-1 -> enterglide-ncc-137-k -> tardis-rule-disruption`; coordination = `catachresis-colloquium/stealth-glider-ecosystem`.

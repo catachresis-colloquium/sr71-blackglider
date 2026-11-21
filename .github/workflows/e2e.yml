@@ -54,7 +54,7 @@ jobs:
     timeout-minutes: 15
     steps:
       - name: Checkout
-        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        uses: actions/checkout@v7.0.1
       - name: Run E2E harness
         # E2E_SKIP_PROOFS is set deliberately and names its replacement: the
         # four proof gates are run by proof-gate.yml, which installs each
